@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RhysTheDev/movie-db-search/static/css/main.b100e6da.chunk.css",
+    "main.js": "/RhysTheDev/movie-db-search/static/js/main.c7656a04.chunk.js",
+    "main.js.map": "/RhysTheDev/movie-db-search/static/js/main.c7656a04.chunk.js.map",
+    "runtime-main.js": "/RhysTheDev/movie-db-search/static/js/runtime-main.034f1b96.js",
+    "runtime-main.js.map": "/RhysTheDev/movie-db-search/static/js/runtime-main.034f1b96.js.map",
+    "static/css/2.833dd627.chunk.css": "/RhysTheDev/movie-db-search/static/css/2.833dd627.chunk.css",
+    "static/js/2.54206a27.chunk.js": "/RhysTheDev/movie-db-search/static/js/2.54206a27.chunk.js",
+    "static/js/2.54206a27.chunk.js.map": "/RhysTheDev/movie-db-search/static/js/2.54206a27.chunk.js.map",
+    "index.html": "/RhysTheDev/movie-db-search/index.html",
+    "precache-manifest.ed8b838aea7dc339773cc552bbcec571.js": "/RhysTheDev/movie-db-search/precache-manifest.ed8b838aea7dc339773cc552bbcec571.js",
+    "service-worker.js": "/RhysTheDev/movie-db-search/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/RhysTheDev/movie-db-search/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/RhysTheDev/movie-db-search/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.034f1b96.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.54206a27.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.c7656a04.chunk.js"
+  ]
+}
